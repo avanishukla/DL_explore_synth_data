@@ -81,3 +81,6 @@ Methods used to generate the data are: <br>
 
 Only difference between two Experiments (3 and 4) is dataset used and shell radius 1.5 included in experiment 4.
 Report sphere_shell_basic_analysis_report.docx contains detailed result of trained models and inferences.
+
+## Perturb Last Layer Weights :
+Analyse the training and success of Multilayer Perceptron on Sphere Shell binary dataset after perturbing the last layer weights of model.
